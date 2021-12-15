@@ -17,7 +17,9 @@ Instead of creating one, let's invite Ryeon up! Visit [this page](https://discor
 
 # Links
 - [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Support Server](https://discord.gg/6XSjbKBbJT)
 - [Host on Replit](https://replit.com/github/RayZenYTBE/Ryeon)
+- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Ryeon)
 
 # Support
 Support this project by starring it, and make sure to give us a credit!
